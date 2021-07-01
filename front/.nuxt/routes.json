@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/alexandre.uy/Desktop/Training/front/src/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_2025f94c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/alexandre.uy/Desktop/Training/front/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_567e5635"
+  }
+]
